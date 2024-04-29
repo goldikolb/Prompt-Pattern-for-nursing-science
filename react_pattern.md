@@ -48,7 +48,7 @@ Bitte benutze das ReAct Muster und erfinde einen hypothetischen Bewohner.
 * Ist der Bewohner in der Lage, Treppen ohne Hilfe zu steigen?
 * Benötigt der Bewohner Hilfsmittel wie einen Treppenlift oder Handläufe?
 
-Aktion:
+**Aktion:**
 
 * Frage den hypothetischen Bewohner, ob er beim Treppensteigen Hilfsmittel benötigt oder ob eine Person zur Unterstützung erforderlich ist.
 

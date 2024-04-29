@@ -10,7 +10,8 @@ Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://
 
 ## Beispiel anhand einer Notfallsituation bei einem Patienten
 
-_user_
+### user
+
 **Situation:** Ein neuer Patient kommt auf Station.
 **Gedanke:** Ich muss wissen welche Erkrankung er hat.
 **Handlung:** Ich frage ihn nach seinen Beschwerde.
@@ -26,3 +27,15 @@ _user_
 **Handlung:** Ich wende Kinästhetik an und helfe ihm aufzustehen.
 
 **Situation:** Der Patient muss sich beim Mittagessen übergeben und er klagt über Bauchschmerzen.
+
+### ChatGPT
+
+**Situation:** Der Patient muss sich beim Mittagessen übergeben und klagt über Bauchschmerzen.
+
+**Gedanke:** Es könnte eine akute Erkrankung des Verdauungstraktes vorliegen.
+
+**Handlung:** Ich frage den Patienten nach weiteren Symptomen und dem zeitlichen Verlauf der Beschwerden.
+
+**Gedanke:** Der Patient könnte dehydriert sein durch das Erbrechen.
+
+**Handlung:** Ich überprüfe die Hydratation des Patienten, messe seine Vitalzeichen und informiere den Arzt über die Situation. Ich sorge dafür, dass der Patient Zugang zu ausreichend Flüssigkeit hat und beobachte ihn weiterhin.

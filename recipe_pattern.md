@@ -1,38 +1,25 @@
 # Recipe Pattern
 
-To use this pattern, your prompt should make the following fundamental contextual statements:
+Um dieses Muster zu verwenden, sollte Ihre Aufforderung die folgenden grundlegenden kontextuellen Aussagen enthalten:
 
-- I would like to achieve X 
-- I know that I need to perform steps A,B,C 
-- Provide a complete sequence of steps for me 
-- Fill in any missing steps 
-- (Optional) Identify any unnecessary steps
+- Ich möchte X erreichen
+- Ich weiß, dass ich die Schritte A, B und C ausführen muss
+- Geben Sie mir eine vollständige Abfolge der Schritte vor
+- Füllen Sie alle fehlenden Schritte aus
+- (Optional) Identifizieren Sie alle unnötigen Schritte
 
-You will need to replace "X" with an appropriate task. You will then need to specify the steps A, B, C that you know need to be part of the recipe / complete plan.
+Sie müssen "X" durch eine geeignete Aufgabe ersetzen. Dann müssen Sie die Schritte A, B, C angeben, von denen Sie wissen, dass sie Teil des Rezepts / des vollständigen Plans sein müssen.
 
-Examples:
+Beispiele:
 
-I would like to  purchase a house. I know that I need to perform steps make an offer and close on the house. Provide a complete sequence of steps for me. Fill in any missing steps.
+Ich möchte ein Haus kaufen. Ich weiß, dass ich die Schritte Angebotserstellung und Kaufabschluss durchführen muss. Geben Sie mir eine vollständige Abfolge der Schritte vor. Füllen Sie alle fehlenden Schritte aus.
 
-I would like to drive to NYC from Nashville. I know that I want to go through Asheville, NC on the way and that I don't want to drive more than 300 miles per day. Provide a complete sequence of steps for me. Fill in any missing steps.
+Ich möchte von Nashville nach NYC fahren. Ich weiß, dass ich auf dem Weg dorthin durch Asheville, NC fahren möchte und dass ich nicht mehr als 300 Meilen pro Tag fahren möchte. Erstellen Sie eine vollständige Abfolge der Schritte für mich. Füllen Sie alle fehlenden Schritte aus.
 
 ## Beispiele Pflegeprozess
 
-_User_
-Kennst du den Pflegeprozess nach der WHO
+### user
 
-_ChatGPT_
-Ja, der Pflegeprozess nach der WHO ist ein systematisches Vorgehen in der Pflege, das in fünf Hauptphasen unterteilt ist:
-
-1. **Assessment (Einschätzung)**: Sammeln von Informationen über den Gesundheitszustand der Patienten.
-2. **Diagnose**: Analyse der Daten, um Pflegeprobleme zu identifizieren.
-3. **Planung**: Festlegen von Zielen und Maßnahmen zur Behandlung der identifizierten Probleme.
-4. **Implementierung (Durchführung)**: Umsetzung der geplanten Pflegemaßnahmen.
-5. **Evaluation (Bewertung)**: Überprüfung der Effektivität der Pflege und Anpassung des Plans bei Bedarf.
-
-Diese Schritte fördern eine individuell angepasste und effektive Patientenversorgung.
-
-_User_
 Bitte vervollständige immer den Pflegeprozess. Ich gebe die ein Assessment [(R) beschreibt immer die Ressourcen] und das Pflegeziel. Du schreibst für mich dann immer die Planung, sprich welche Maßnahmen das Ziel erreichen können.
 
 Assessment: Frau Meyer kann sich nicht selbstständig auf dem Wohnbereich bewegen aufgrund einer erheblichen Einschränkung der Bewegungsfähigkeit, dieses zeigt sich dadurch, dass Sie Ihr linkes Bein nicht kontrolliert bewegen kann (Hemiparese). (R) Frau Meyer kann unter zur Hilfenahme Ihrer Gehhilfe sich sicher und kleinschrittig auf dem Wohnbereich bewegen.
@@ -41,7 +28,8 @@ Pflegeziel: Pflegekraft stellt tägl. nach dem aufstehen und bei Bedarf die Gehh
 
 Bitte vervollständige.
 
-_ChatGPT_
+### ChatGPT
+
 **Planung:**
 
 1. **Schulung der Pflegekräfte**: Sicherstellen, dass alle beteiligten Pflegekräfte im Umgang mit Gehhilfen geschult sind, um Frau Meyer optimal zu unterstützen.

@@ -21,10 +21,12 @@ _Beispiele:_
 
 ## Beispiel anhand eines Fragebogens zum Erstellen des Modul Mobilität der SIS
 
-_user_
+### user
+
 Ich möchte, dass du mir Fragen stellst. Ein Bewohner zieht in meine Pflegeeinrichtung ein und ich muss ihr Fragen, was sein Hilfebedarf ist im Bereich Mobilität der SIS (Strukturierte Informationssammlung). Ich möchte, dass du mir so lange Fragen formulierst, bis ich das Modul 1 vollständigen, mit dem kompletten Hilfebedarf des neuen Bewohners.
 
-_ChatGPT_
+### ChatGPT
+
 Hier sind einige detaillierte Fragen, die du einem neuen Bewohner in deiner Pflegeeinrichtung stellen kannst, um den Hilfebedarf im Bereich Mobilität im Rahmen der SIS (Strukturierte Informationssammlung) zu erfassen:
 
 1. Selbstständige Fortbewegung:

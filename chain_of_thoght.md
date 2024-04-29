@@ -12,7 +12,8 @@ ___
 
 ## Beispiel anhand der korrekten Beurteilung des Kriterium Treppensteigen
 
-_user_
+### user
+
 **Situation:** Der Bewohner kann die Treppen bewältigen. Der Patient muss sich beim Treppensteigen aber immer an einem Geländer festhalten. Mehr wie drei Etagen schafft er nicht.
 **Bewertung der Grad der Selbständigkeit:** Der Bewohner benutzt beim Treppenstiegen ein Geländer, das ist ein Hilfsmittel und bei jeder DIN genormten Treppe in Deutschland vorhanden. Er kann zudem sich zwischen zwei Etagen ohne die Hilfe von einer anderen Person bewegen. Er schafft sogar 3 Etagen. - Die Antwort ist _selbständig_.
 
@@ -25,10 +26,11 @@ _user_
 **Situation:** Der Patient schafft es nur noch mit personeller Hilfe die 2 Stufen vor meiner Haustüre zu bewältigen. Eine ganze Etage schafft er nicht mehr, selbst nicht, wenn eine Pflegeperson ihn hält.
 **Bewertung der Grad der Selbständigkeit:** Der Bewohner schafft es nur eine komplette Treppe zwischen zwei Etagen zu steigen, wenn eine andere Person ihn hält. - Die Antwort ist _unselbständig_.
 
-Situation: Der Bewohner ist blind, er kann die Stufen nicht erkennen. Es muss immer jemand vor ihm hergehen. Der Patient muss nicht gehalten werden.
+**Situation:** Der Bewohner ist blind, er kann die Stufen nicht erkennen. Es muss immer jemand vor ihm hergehen. Der Patient muss nicht gehalten werden.
 Bewertung der Grad der Selbständigkeit: Erklärung \<Erklärung\> - Antwort \<Antwort\>
 
-_ChatGPT_
+### ChatGPT
+
 **Situation:** Der Bewohner ist blind, er kann die Stufen nicht erkennen. Es muss immer jemand vor ihm hergehen. Der Patient muss nicht gehalten werden.
 
 **Bewertung der Grad der Selbständigkeit:**

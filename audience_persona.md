@@ -18,12 +18,14 @@ Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://
 
 ---
 
-## Beispiel anhand der Erklärung der Krebserkrankung für ein 5jähriges Kind.
+## Beispiel anhand der Erklärung der Krebserkrankung für ein 5jähriges Kind
 
-_user_
+### user
+
 Erkläre mir einfühlsam, wie eine Krebserkrankung entsteht, als wäre ich 5 jähriges Kind mit Leukämie.
 
-_ChatGPT_
+### ChatGPT
+
 Stell dir vor, dein Körper ist wie eine Stadt und in dieser Stadt gibt es viele kleine Fabriken, die deine Zellen sind. Diese Zellen haben sehr wichtige Jobs. Sie helfen dir, zu wachsen, machen dich gesund und reparieren dich, wenn du krank bist. Manchmal passiert es jedoch, dass eine dieser Fabriken einen Fehler macht. Anstatt richtig zu arbeiten, fängt sie an, wild durcheinander und viel zu schnell neue Teile zu produzieren. Das nennt man Krebs.
 
 Bei Leukämie, was eine Art von Krebs ist, passiert das in den speziellen Fabriken deines Blutes, die helfen, deinen Körper gegen Krankheiten zu verteidigen. Statt gute Helfer zu produzieren, gibt es zu viele kaputte Helfer, die nicht richtig arbeiten können. Das macht es schwierig für deinen Körper, gesund zu bleiben.

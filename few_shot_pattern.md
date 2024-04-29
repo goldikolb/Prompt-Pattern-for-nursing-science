@@ -10,7 +10,8 @@ Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://
 
 ## Beispiel anhand des Kriterium "Treppensteigen" des Modul Mobilität
 
-_user_
+### user
+
 **Handlung:** Ein Patient geht ohne Festhalten am Geländer alleine die Treppe hoch.
 **Grad der Selbständigkeit:** selbstständig
 
@@ -26,5 +27,6 @@ _user_
 **Handlung:** Ein Patient kann alleine die Treppen steigen, er muss aber langsam gehen.
 **Grad der Selbständigkeit:**
 
-_ChatGPT_
+### ChatGPT
+
 **Grad der Selbständigkeit:** selbstständig

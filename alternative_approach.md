@@ -20,14 +20,15 @@ For anything that I ask you to write, determine the underlying problem that I am
 
 ## Beispiel Beurteilung der Mobilität beim Treppensteigen
 
-**User**
+### user
+
 Wenn es für jeden Prompt, den ich dir gebe, eine alternative Formulierungen gibt, liste die besten alternativen Formulierungen auf. Vergleiche die Vor- und Nachteile der einzelnen Formulierungen.
 
 _Hier eine Beispiel:_
 
 Zur Beurteilung des Grades der Selbständigkeit nach den Begutachtungsrichtlinien zur Ermittlung des Pflegegrades gebe ich dir die Beschreibung des personellen Hilfebedarfes [Hilfe]. Du bewertest den Hilfebedarf nach den Begutachtungsrichtlinien mit \<selbständig\> \<überwiegend selbstständig\> \<überwiegend unselbstständig\> \<unselbständig\>
 
-## ChatGPT
+### ChatGPT
 
 Hier sind alternative Formulierungen für den von dir gegebenen Beispiel-Prompt, einschließlich ihrer Vor- und Nachteile:
 
@@ -47,7 +48,7 @@ Hier sind alternative Formulierungen für den von dir gegebenen Beispiel-Prompt,
 - Vereinfachte Formulierung
 
 **Prompt:**
-"Bitte bewerte den Hilfebedarf dieser Person gemäß den Richtlinien zur Pflegegrad-Ermittlung: <Hilfe>. Die Bewertungskategorien sind: <selbständig>, <überwiegend selbstständig>, <überwiegend unselbstständig>, <unselbständig>."
+Bitte bewerte den Hilfebedarf dieser Person gemäß den Richtlinien zur Pflegegrad-Ermittlung: \<Hilfe\>. Die Bewertungskategorien sind: \<selbständig\>, \<überwiegend selbstständig\>, \<überwiegend unselbstständig\>, \<unselbständig\>.
 
 **Vorteile:**
 
@@ -60,7 +61,7 @@ Nachteile:
 - Direkte Frageformulierung
 
 **Prompt:**
-"Wie würdest du den Hilfebedarf <Hilfe> dieser Person einschätzen, wenn du die Kategorien <selbständig>, <überwiegend selbstständig>, <überwiegend unselbstständig>, <unselbständig> nutzt, basierend auf den Pflegegrad-Richtlinien"
+Wie würdest du den Hilfebedarf \<Hilfe\> dieser Person einschätzen, wenn du die Kategorien \<selbständig\>, \<überwiegend selbstständig\>, \<überwiegend unselbstständig\>, \<unselbständig\> nutzt, basierend auf den Pflegegrad-Richtlinien
 
 **Vorteile:**
 

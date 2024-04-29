@@ -20,10 +20,12 @@ Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://
 
 ## Beispiel Python lernen mit ChatGPT
 
-_user_
+### user
+
 Ich möchte ein interaktives Python-Spiel erstellen, bei dem ich eine Aufgabe gestellt bekomme und den Code dafür schreiben muss. Du sollst mir die Aufgabe stellen und meinen Code bewerten. Wenn ich etwas falsch mache, gibst du mir Feedback und erklärst mir, was ich falsch gemacht habe. Hier ist ein Beispiel für eine Aufgabe: Schreibe 'Hallo Welt'.
 
-_chatGPT_
+### ChatGPT
+
 Super, dann legen wir gleich los mit der ersten Aufgabe:
 
 Aufgabe:
@@ -31,7 +33,8 @@ Erstelle ein Python-Programm, das eine Zahl zwischen 1 und 100 vom Benutzer einl
 
 Wenn du deinen Code geschrieben hast, kannst du ihn hier einfügen, und ich werde ihn bewerten.
 
-_user_
+### user_
+
         # Frage den Benutzer nach einer Zahl zwischen 1 und 100
         num = int(input("Bitte gib eine Zahl zwischen 1 und 100 ein: "))
 
@@ -45,7 +48,8 @@ _user_
             else:
                 print("Die Zahl ist ungerade.")
 
-_ChatGPT_
+### ChatGPT_
+
 Dein Code sieht gut aus! Hier sind die Punkte, die du gut gemacht hast:
 
 - Du hast die Benutzereingabe korrekt implementiert und in einen Integer umgewandelt.
