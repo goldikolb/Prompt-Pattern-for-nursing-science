@@ -9,7 +9,7 @@ Diese Methode wird oft verwendet, um systematisch Daten zu sammeln und Entscheid
 
 ___
 
-Mehr Informationen zu dieser Methodik in diesem wissenschaftlichen Artikel [![[arXiv-Paper](https://img.shields.io/badge/arXiv-2210.03629-B31B1B)](https://arxiv.org/abs/2210.03629)
+Mehr Informationen zu dieser Methodik in diesem wissenschaftlichen Artikel [![arXiv-Paper](https://img.shields.io/badge/arXiv-2210.03629-B31B1B)](https://arxiv.org/abs/2210.03629)
 
 Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://img.shields.io/badge/Coursera-Prompt%20Engineering-0078D4)](https://www.coursera.org/learn/prompt-engineering/home/info)
 
