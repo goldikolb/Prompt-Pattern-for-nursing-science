@@ -17,23 +17,30 @@ ___
 
 ## Beispiel für das Abfragen eines Hilfebedarfs für den Grad der Selbständigkeit beim Gehen und Treppensteigen
 
-_user_
+### user
+
 **Aufgabe:** Bewerte den Grad der Selbständigkeit beim Gehen für das Kriterium Fortbewegen im Wohnbereich in dem Modul 1 der Begutachtungsrichtlinien zur Bewertung des Pflegegrades für deine Pflegedokumentation.
+
 **Denk nach:** Du musst von dem Bewohner erfahren, benötigt er ein Hilfsmittel beim Gehen. Schafft er es mindestens 8 m alleine zu auf gerader Ebene zu gehen. Muss ihm jemand beim Gehen beaufsichtigen, ihn halten oder braucht er Hilfe beim Fahren mit einem Rollstuhl?
+
 **Aktion:** Frage den Bewohner, ob er beim Gehen ein Hilfsmittel, wie einen Rollator oder Rollstuhl benötigt?
 Ergebnis: Der Bewohner sagt er kann mehr als 8 m gehen, er benötigt aber dabei immer einen Rollator.
+
 **Denk nach:**  Benötigt er auch immer beim Gehen eine Pflegeperson, die ihn beaufsichtigt, weil er sonst Angst hat zu stürzen und sie somit immer in seiner Nähe ist um ihn zu helfen. Oder benötigt er sogar immer eine Person, die ihn beim Gehen hält, weil er sonst keine 8 m schafft.
+
 **Aktion:** Frag den Bewohner, ob er jemanden benötigt, der in Beaufsichtigen oder Halten muss, beim Gehen.
 Ergebnis: Der Bewohner sagt, er muss beim Gehen immer gehalten werden trotz Rollator, weil er sonst stürzt.
+
 **Aktion:** Ich weiß, dass er trotz eines Hilfsmittels beim Gehen immer gehalten werden muss. Der Grad der Selbständigkeit ist - _überwiegend unselbständig_.
 
-Aufgabe: Bewerte den Grad der Selbständigkeit beim Treppensteigen für das Kriterium Treppensteigen in dem Modul 1 der Begutachtungsrichtlinien zur Bewertung des Pflegegrades für deine Pflegedokumentation.
-Denk nach:
+**Aufgabe:** Bewerte den Grad der Selbständigkeit beim Treppensteigen für das Kriterium Treppensteigen in dem Modul 1 der Begutachtungsrichtlinien zur Bewertung des Pflegegrades für deine Pflegedokumentation.
+**Denk nach:**
 
 Bitte benutze das ReAct Muster und erfinde einen hypothetischen Bewohner.
 
-_ChatGPT_
-**Aufgabe: Bewertung des Grades der Selbständigkeit beim Treppensteigen**
+### ChatGPT
+
+**Aufgabe:** Bewertung des Grades der Selbständigkeit beim Treppensteigen
 
 **Reflexion:**
 
