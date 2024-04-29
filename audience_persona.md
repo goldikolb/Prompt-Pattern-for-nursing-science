@@ -1,16 +1,22 @@
 # Audience Persona Pattern
 
-To use this pattern, your prompt should make the following fundamental contextual statements:
+Um dieses Muster zu verwenden, sollte Ihre Aufforderung die folgenden grundlegenden kontextbezogenen Aussagen enthalten:
 
-* Explain X to me.
-* Assume that I am Persona Y.
+* Erklären Sie mir X.
+* Nehmen Sie an, dass ich Persona Y bin.
 
-You will need to replace "Y" with an appropriate persona, such as "have limited background in computer science" or "a healthcare expert". You will then need to specify the topic X that should be explained.
+Sie müssen "Y" durch eine geeignete Persona ersetzen, z. B. "mit begrenztem Hintergrundwissen in Informatik" oder "ein Experte im Gesundheitswesen". Dann müssen Sie das Thema X angeben, das erklärt werden soll.
 
-_Examples:_
+_Beispiele:_
 
-* Explain large language models to me. Assume that I am a bird.
-* Explain how the supply chains for US grocery stores work to me. Assume that I am Ghengis Khan.
+* Erklären Sie mir große Sprachmodelle. Nehmen Sie an, dass ich ein Vogel bin.
+* Erklären Sie mir, wie die Lieferketten der US-Lebensmittelläden funktionieren. Nehmen Sie an, dass ich Dschingis Khan bin.
+
+---
+
+Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://img.shields.io/badge/Coursera-Prompt%20Engineering-0078D4)](https://www.coursera.org/learn/prompt-engineering/home/info)
+
+---
 
 ## Beispiel anhand der Erklärung der Krebserkrankung für ein 5jähriges Kind.
 

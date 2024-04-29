@@ -8,11 +8,11 @@ Um dieses Muster zu verwenden, sollte Ihre Aufforderung die folgenden grundlegen
 
 Sie müssen "X" durch ein geeignetes Ziel ersetzen, z.B. "einen Essensplan erstellen" oder "Variationen meines Marketingmaterials erstellen" Mit Y sollten Sie angeben, wann Sie aufhören, Fragen zu stellen. Beispiele sind "bis Sie genügend Informationen über meine Zielgruppe und meine Ziele haben" oder "bis Sie wissen, was ich gerne esse und welche Kalorienvorgaben ich habe."
 
-(---)
+---
 
 Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://img.shields.io/badge/Coursera-Prompt%20Engineering-0078D4)](https://www.coursera.org/learn/prompt-engineering/home/info)
 
-(---)
+---
 
 _Beispiele:_
 
