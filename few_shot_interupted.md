@@ -39,3 +39,9 @@ Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://
 **Gedanke:** Der Patient könnte dehydriert sein durch das Erbrechen.
 
 **Handlung:** Ich überprüfe die Hydratation des Patienten, messe seine Vitalzeichen und informiere den Arzt über die Situation. Ich sorge dafür, dass der Patient Zugang zu ausreichend Flüssigkeit hat und beobachte ihn weiterhin.
+
+---
+
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/b798956b-9abe-4e23-808a-49744478d707)
+
+---

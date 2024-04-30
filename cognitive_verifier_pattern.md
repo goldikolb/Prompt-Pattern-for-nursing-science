@@ -54,6 +54,6 @@ Wenn du diese Fragen beantwortest, können wir gemeinsam einen klaren und zielge
 
 ---
 
-[![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/14fd73b8-f13f-4d94-84f7-f527697fab1c)
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/14fd73b8-f13f-4d94-84f7-f527697fab1c)
 
 ---

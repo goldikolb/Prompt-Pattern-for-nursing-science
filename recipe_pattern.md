@@ -41,3 +41,9 @@ Bitte vervollständige.
 4. **Notfallplan:** Erstellung eines Notfallplans, falls Frau Meyer ihre Gehhilfe nicht erreichen kann oder weitere Unterstützung benötigt.
 
 5. **Feedback und Anpassung:** Regelmäßige Gespräche mit Frau Meyer, um ihre Zufriedenheit mit der Unterstützung zu bewerten und den Plan bei Bedarf anzupassen.
+
+---
+
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/c42adaae-a284-406f-8f8a-63eadbc6f9d1)
+
+---

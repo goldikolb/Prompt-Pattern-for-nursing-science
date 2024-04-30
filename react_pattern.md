@@ -72,3 +72,9 @@ Frage den hypothetischen Bewohner, ob die Begleitung ständig nötig ist, um Sic
 **Bewertung:**
 
 Der Grad der Selbständigkeit des hypothetischen Bewohners beim Treppensteigen ist _überwiegend unselbständig_. Der Bewohner benötigt ständige Unterstützung durch eine Pflegeperson und zusätzliche Sicherheitsmaßnahmen wie Handläufe.
+
+___
+
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/893c1514-10f1-4097-a634-369371d97dd9)
+
+___

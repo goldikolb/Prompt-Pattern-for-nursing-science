@@ -41,3 +41,9 @@ Bewertung der Grad der Selbständigkeit: Erklärung \<Erklärung\> - Antwort \<A
 
 - **Erklärung:** Der Bewohner benötigt eine visuelle Hilfestellung in Form einer Person, die ihm den Weg weist, da er die Stufen aufgrund seiner Blindheit nicht selbst erkennen kann.
 - **Antwort:** _Überwiegend selbständig_, da keine physische Unterstützung benötigt wird, aber dennoch eine kontinuierliche personelle Unterstützung erforderlich ist.
+
+___
+
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/706c2cbb-3924-409e-8456-7cee571d4809)
+
+___

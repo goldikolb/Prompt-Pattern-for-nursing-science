@@ -49,3 +49,9 @@ Hier sind einige detaillierte Fragen, die du einem neuen Bewohner in deiner Pfle
     * Gibt es spezifische Situationen oder Tätigkeiten, bei denen das Risiko eines Sturzes erhöht ist?
 
 Diese Fragen helfen dir, ein vollständiges Bild des Mobilitätsbedarfs des neuen Bewohners zu erhalten und entsprechende Maßnahmen für eine sichere und unterstützende Umgebung in deiner Pflegeeinrichtung zu planen.
+
+---
+
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/d330cb2d-435a-4b9e-ac2e-294b0656093b)
+
+---

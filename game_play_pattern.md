@@ -58,3 +58,9 @@ Dein Code sieht gut aus! Hier sind die Punkte, die du gut gemacht hast:
 
 **Feedback:**
 Es gibt keinen direkten Verbesserungsbedarf in deinem Code, er erfüllt die Aufgabe wie vorgesehen. Wenn du willst, könnten wir die Funktionalität erweitern oder eine neue Aufgabe versuchen. Möchtest du eine neue Aufgabe probieren oder etwas anderes an deinem aktuellen Code ändern?
+
+---
+
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/0f25a51f-4439-48e2-83fc-bc39f4dd0bf0)
+
+---

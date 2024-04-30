@@ -45,3 +45,9 @@ Hier sind die möglichen Beschreibungen des personellen Hilfebedarfs für das Kr
 4. Personeller Hilfebedarf vollständige Übernahme der Tätigkeit durch eine andere Person: **unselbständig**
 
 Diese Einteilung berücksichtigt die unterschiedlichen Grade der Selbstständigkeit und spiegelt die nötigen Unterstützungsformen gemäß den offiziellen Richtlinien wider.
+
+---
+
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/75900bbb-089f-4505-a347-b341d1c9fa09)
+
+---

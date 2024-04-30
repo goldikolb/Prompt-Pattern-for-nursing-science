@@ -31,3 +31,9 @@ Stell dir vor, dein Körper ist wie eine Stadt und in dieser Stadt gibt es viele
 Bei Leukämie, was eine Art von Krebs ist, passiert das in den speziellen Fabriken deines Blutes, die helfen, deinen Körper gegen Krankheiten zu verteidigen. Statt gute Helfer zu produzieren, gibt es zu viele kaputte Helfer, die nicht richtig arbeiten können. Das macht es schwierig für deinen Körper, gesund zu bleiben.
 
 Aber weißt du was? Ärzte und Forscher sind wie Superhelden und Baumeister zugleich. Sie verstehen, wie man diese kaputten Fabriken wieder in Ordnung bringt und helfen deinem Körper, wieder stark und gesund zu werden.
+
+---
+
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/1aef5901-52dd-477b-949c-3d429d4b3356)
+
+---

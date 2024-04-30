@@ -18,6 +18,12 @@ For every prompt I give you, If there are alternative ways to word a prompt that
 
 For anything that I ask you to write, determine the underlying problem that I am trying to solve and how I am trying to solve it. List at least one alternative approach to solve the problem and compare / contrast the approach with the original approach implied by my request to you.
 
+---
+
+Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://img.shields.io/badge/Coursera-Prompt%20Engineering-0078D4)](https://www.coursera.org/learn/prompt-engineering/home/info)
+
+---
+
 ## Beispiel Beurteilung der Mobilität beim Treppensteigen
 
 ### user
@@ -72,3 +78,9 @@ Wie würdest du den Hilfebedarf \<Hilfe\> dieser Person einschätzen, wenn du di
 
 Kann als weniger formal wahrgenommen werden, was in bestimmten bürokratischen oder akademischen Kontexten nicht ideal sein könnte.
 Diese unterschiedlichen Formulierungen ermöglichen eine Anpassung je nach Kommunikationsstil und Zielgruppe, wobei jede ihre eigenen Vor- und Nachteile hat, abhängig von den Anforderungen der Situation oder des Publikums.
+
+---
+
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/f08f6cf6-4c19-489c-9232-e94f9caf0fe0)
+
+---

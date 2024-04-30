@@ -30,3 +30,9 @@ Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://
 ### ChatGPT
 
 **Grad der Selbständigkeit:** selbstständig
+
+---
+
+Hier geht es zum Original Chat [![ChatGPT-GPT Plus](https://img.shields.io/badge/ChatGPT-GPT%20Plus-008080)](https://chat.openai.com/share/f6adc337-afa0-47ee-bbb2-6e11a3b26517)
+
+---
