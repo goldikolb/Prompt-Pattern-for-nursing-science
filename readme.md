@@ -10,7 +10,7 @@ Hallo, ich bin Christian Kolb, und dieses GitHub-Repository präsentiert die Pro
 
 Jede Datei in diesem Repository erläutert ein spezifisches Prompt-Muster. Ich beginne mit einer allgemeinen Erklärung des Musters und zeige dann anhand eines spezifischen Beispiels, wie dieses Muster ein Problem im Alltag der Pflege adressieren kann.
 
-In den Dateien [outline expansion pattern](outline_expansion_pattern.md), [menu action pattern](menu_action_pattern.md) und [fact check list pattern](fact_check_list_pattern.md) erkläre ich zum Beipsiel, wie mit Hilfe der KI ein eigenes Handbuch zur Umsetzung des Expertenstandard für das Qualitätsmanagement umsetzen können.
+In den Dateien [outline expansion pattern](outline_expansion_pattern.md), [menu action pattern](menu_action_pattern.md) und [fact check list pattern](fact_check_list_pattern.md) erkläre ich zum Beipsiel, wie sie mit Hilfe der KI ein eigenes Handbuch zur Umsetzung des Expertenstandard Ernährungsmanagement in der Pflege für das Qualitätsmanagement umsetzen können.
 
 ### Inhalte jeder Datei
 
@@ -50,3 +50,7 @@ Wenn Sie Fragen haben oder einen Beitrag leisten möchten, zögern Sie nicht, un
 [![Twitter Follow](https://img.shields.io/twitter/follow/ai_fuerth?style=social)](https://twitter.com/ai_fuerth)
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20@pflege__ki-blue?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pflege_ki/)
+
+## Support my work
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Pflege_KI-FFDD00)](https://buymeacoffee.com/pflege_ki)
