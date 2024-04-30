@@ -18,7 +18,7 @@ Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://
 
 ---
 
-## Beispiel: Schreibe ein Handbuch für das Qualitätsmangament (in Kombination mit dem Ask for Input Pattern)
+## Beispiel: Schreibe ein Handbuch für das Qualitätsmangament (in Kombination mit dem Ask for Input Pattern) (Teil 1)
 
 ### user
 
