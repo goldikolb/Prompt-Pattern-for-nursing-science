@@ -32,12 +32,12 @@ Bitte vervollständige.
 
 **Planung:**
 
-1. **Schulung der Pflegekräfte**: Sicherstellen, dass alle beteiligten Pflegekräfte im Umgang mit Gehhilfen geschult sind, um Frau Meyer optimal zu unterstützen.
+1. **Schulung der Pflegekräfte:** Sicherstellen, dass alle beteiligten Pflegekräfte im Umgang mit Gehhilfen geschult sind, um Frau Meyer optimal zu unterstützen.
 
-2. **Einrichtung der Umgebung**: Anpassung der Umgebung in Frau Meyers Wohnbereich, um eine sichere Nutzung der Gehhilfe zu gewährleisten. Dies kann das Entfernen von Hindernissen und das Anbringen von Griffen beinhalten.
+2. **Einrichtung der Umgebung:** Anpassung der Umgebung in Frau Meyers Wohnbereich, um eine sichere Nutzung der Gehhilfe zu gewährleisten. Dies kann das Entfernen von Hindernissen und das Anbringen von Griffen beinhalten.
 
-3. **Regelmäßige Überprüfung**: Tägliche Überprüfung, ob die Gehhilfe korrekt und sicher positioniert ist und ob Frau Meyer sich sicher fühlt, sie zu benutzen.
+3. **Regelmäßige Überprüfung:** Tägliche Überprüfung, ob die Gehhilfe korrekt und sicher positioniert ist und ob Frau Meyer sich sicher fühlt, sie zu benutzen.
 
-4. **Notfallplan**: Erstellung eines Notfallplans, falls Frau Meyer ihre Gehhilfe nicht erreichen kann oder weitere Unterstützung benötigt.
+4. **Notfallplan:** Erstellung eines Notfallplans, falls Frau Meyer ihre Gehhilfe nicht erreichen kann oder weitere Unterstützung benötigt.
 
-5. **Feedback und Anpassung**: Regelmäßige Gespräche mit Frau Meyer, um ihre Zufriedenheit mit der Unterstützung zu bewerten und den Plan bei Bedarf anzupassen.
+5. **Feedback und Anpassung:** Regelmäßige Gespräche mit Frau Meyer, um ihre Zufriedenheit mit der Unterstützung zu bewerten und den Plan bei Bedarf anzupassen.
