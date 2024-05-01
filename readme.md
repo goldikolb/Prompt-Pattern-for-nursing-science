@@ -27,6 +27,10 @@ Für diejenigen, die tiefer in die Theorie des Prompt Engineerings eintauchen m�
 
 [![arXiv-Paper](https://img.shields.io/badge/arXiv-2201.11903-B31B1B)](https://arxiv.org/abs/2302.11382)
 
+Wenn sie alle Prompt-Techniken aus diesem Artikel auflisten lassen wollen, geben sie folgenden Prompt in ChatGPT ein (wahrscheinliche funktioniert es auch bei jedem anderen LLM).
+
+Find all the prompt techniques in this paper and give a description and example of all the techniques.  Put them in a table. <https://arxiv.org/pdf/2302.11382.pdf>
+
 ## Wie Sie dieses Repository nutzen können
 
 1. **Verstehen durch Beispiele**: Durchstöbern Sie die Muster und deren Anwendungen, um zu verstehen, wie sie spezifische Probleme lösen können.
