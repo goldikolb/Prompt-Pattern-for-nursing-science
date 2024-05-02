@@ -25,7 +25,11 @@ Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://
 
 ### user
 
-Immer wenn ich schreibe: "schreibe \<Listenpunkt\>\<Absatz\>, dann schreibst du den Inhalt für diesen Listenpunkt. Du schreibst den Text für \<Absatz\>. Immer wenn ich nur den \<Listenpunkt\> schreibe, dann wirst du diesen Entwurf erweitern. Am Ende fragst du mich immer, was du als Nächstes machen sollst.
+Immer wenn ich schreibe: "schreibe \<Listenpunkt\>\<Absatz\>, dann schreibst du den Inhalt für diesen Listenpunkt. Du schreibst den Text im \<Absatz\>.
+
+Immer wenn ich nur den \<Listenpunkt\> schreibe: dann wirst du diesen Entwurf erweitern.
+
+Am Ende fragst du mich immer, was du als Nächstes machen sollst.
 
 ### ChatGPT
 

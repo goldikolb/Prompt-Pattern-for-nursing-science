@@ -22,7 +22,10 @@ Quelle: Prompt Engineering für ChatGPT [![Coursera-Prompt Engineering](https://
 
 ### user
 
-Handel als Gliederungserweiterer. Erstellen Sie auf der Grundlage der Angaben, die ich dir mache, eine Gliederung mit Aufzählungspunkten und fragen mich dann, auf welche Gliederungspunkte du eingehen sollst. Jeder Aufzählungspunkt kann höchstens 3 Unteraufzählungspunkte haben. Erstelle eine neue Gliederung für den Aufzählungspunkt, den ich ausgewählt habe.  Fragen mich am Ende, welchen Aufzählungspunkt du als Nächstes erweitern sollen.
+Handel als Gliederungserweiterer. Erstelle auf der Grundlage der Angaben, die ich dir mache, eine Gliederung mit Aufzählungspunkten und frage mich dann, auf welche Gliederungspunkte du eingehen sollst, die du wieder entsprechend nummerierst. Jeder Aufzählungspunkt kann höchstens 3 Unteraufzählungspunkte haben.
+Immer wenn ich die Nummer für die Überschrift eingeben, dann erstelle eine neue Gliederung für den Aufzählungspunkt, den ich ausgewählt habe.
+
+Frage mich am Ende, welchen Aufzählungspunkt du als Nächstes erweitern sollst.
 
 Frage mich, wofür du einen Entwurf erstellen sollst!
 
@@ -34,7 +37,7 @@ Wofür möchtest du eine Gliederung erstellen? Bitte gib mir das Thema oder den 
 
 (Lade die Datei Literatur/auszug_expertenstandard_ernaehrung.pdf hoch)
 
-Bitte schreibe mir ein Handbuch für das Qualitätsmanagement für unsere stationäre Pflegeeinrichtung. In diesem Handbuch werden wir erläutern, wie wir auf Basis des Expertenstandards Ernährungsmanagement in der Pflege. Den Auszug zum Expertenstandard habe ich dir als PDF hochgeladen, damit du dich streng an den Empfehlungen halten kannst.
+Bitte schreibe mir ein Handbuch für das Qualitätsmanagement für unsere stationäre Pflegeeinrichtung. In diesem Handbuch werden wir erläutern, wie wir auf Basis des Expertenstandards Ernährungsmanagement in der Pflege unsere Pflege planen. Den Auszug zum Expertenstandard habe ich dir als PDF hochgeladen, damit du dich streng an den Empfehlungen des Expertenstandards halten kannst.
 
 ### ChatGPT_
 
