@@ -20,7 +20,7 @@ ___
 
 **Situation:** Der Bewohner muss beim Treppensteigen wegen seiner Gangunsicherheit und Sturzgefahr begleitet werden. Es reicht aus, wenn jemand hinter dem Patienten hergeht, damit er sich sicher fühlt.
 
-**Bewertung der Grad der Selbständigkeit:** Der Versicherte benötigt beim Treppensteigen personelle Hilfe in Form von Beaufsichtigung. Der Bewohner muss aber festgehalten werden, es reicht, wenn jemand hinter ihm hergeht. - Die Antwort ist _überwiegend selbständig_.
+**Bewertung der Grad der Selbständigkeit:** Der Versicherte benötigt beim Treppensteigen personelle Hilfe in Form von Beaufsichtigung. Der Bewohner muss aber nicht festgehalten werden, es reicht, wenn jemand hinter ihm hergeht. - Die Antwort ist _überwiegend selbständig_.
 
 **Situation:** Der Bewohner muss beim Treppensteigen immer gehalten werden, sonst schafft er es nicht eine ganze Etage zu bewältigen. Ein Geländer alleine reicht nicht aus.
 
