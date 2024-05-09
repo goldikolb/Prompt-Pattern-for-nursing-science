@@ -26,9 +26,9 @@ ___
 
 **Bewertung der Grad der Selbständigkeit:** Der Bewohner schafft keine ganze Etage ohne personelle Hilfe. Beim Treppensteigen muss er gehalten werden. - Die Antwort ist _überwiegend unselbständig_.
 
-**Situation:** Der Patient schafft es nur noch mit personeller Hilfe die 2 Stufen vor meiner Haustüre zu bewältigen. Eine ganze Etage schafft er nicht mehr, selbst nicht, wenn eine Pflegeperson ihn hält.
+**Situation:** Der Bewohner schafft es nur noch mit personeller Hilfe die 2 Stufen vor seiner Haustüre zu bewältigen. Eine ganze Etage schafft er nicht mehr, selbst nicht, wenn eine Pflegeperson ihn hält.
 
-**Bewertung der Grad der Selbständigkeit:** Der Bewohner schafft es nur eine komplette Treppe zwischen zwei Etagen zu steigen, wenn eine andere Person ihn hält. - Die Antwort ist _unselbständig_.
+**Bewertung der Grad der Selbständigkeit:** Der Bewohner schafft es es nicht eine komplette Treppe zwischen zwei Etagen zu steigen, selbst nicht wenn eine andere Person ihn hält. - Die Antwort ist _unselbständig_.
 
 **Situation:** Der Bewohner ist blind, er kann die Stufen nicht erkennen. Es muss immer jemand vor ihm hergehen. Der Patient muss nicht gehalten werden.
 Bewertung der Grad der Selbständigkeit: Erklärung \<Erklärung\> - Antwort \<Antwort\>
